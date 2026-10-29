@@ -35,13 +35,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TanishkaVashishth&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://github.com/TanishkaVashishth?tab=followers">
-  <img src="https://img.shields.io/github/followers/TanishkaVashishth?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/TanishkaVashishth?tab=repositories">
-  <img src="https://img.shields.io/github/stars/TanishkaVashishth?style=flat-square&color=6D28D9&label=TOTAL%20STARS" alt="GitHub Stars"/>
-</a>
+
 
 </div>
 
@@ -149,7 +143,7 @@ An AI-powered agriculture platform combining computer vision, reinforcement lear
 | **Performance** | 91.60% test accuracy for the wheat classification model |
 | **Security** | Formal security evaluation not documented |
 | **Impact** | Selected for Smart India Hackathon 2026 |
-| **Repository** | [NabhKrishi Frontend](https://github.com/NabhKrishi/NabhKrishi_frontend) |
+| **Repository** | [NabhKrishi Frontend](https://github.com/TanishkaVashishth/Nabhkrishi) |
 
 **Engineering highlights**
 
@@ -174,7 +168,7 @@ An AI-driven health-tech prototype that estimates neurological risk and combines
 | **Performance** | Reported \(R^2\) score of 0.85 |
 | **Security** | Formal security audit not documented |
 | **Impact** | Combines predictive modeling, cognitive screening, and automated reporting |
-| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/nikunjbindra/NeuroSense) |
 
 **Engineering highlights**
 
@@ -201,7 +195,7 @@ A real-time monitoring system combining facial features and system-level telemet
 | **Performance** | Quantitative model benchmarks not documented |
 | **Security** | Formal privacy and security audit not documented |
 | **Impact** | Live risk scoring, alerts, and automated PDF reporting |
-| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth/attention-drift-and-fatigue-detection) |
 
 **Engineering highlights**
 
@@ -226,7 +220,7 @@ An Earth Observation platform combining a satellite-pretrained vision transforme
 | **Performance** | Third place at Global AI Summit 2025 |
 | **Security** | Formal security audit not documented |
 | **Impact** | Change heatmaps, vegetation-stress and flood masks, climate-risk trends, and early-warning alerts |
-| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/Aditya30ag/TerraViT) |
 
 **Engineering highlights**
 
@@ -263,18 +257,6 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 
 ---
 
-## `05` &nbsp; Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| <img src="https://img.shields.io/badge/01-Smart%20India%20Hackathon-312E81?style=flat-square" alt="Smart India Hackathon"/> | Selected for Smart India Hackathon 2026 with NabhKrishi |
-| <img src="https://img.shields.io/badge/02-Global%20AI%20Summit-4F46E5?style=flat-square" alt="Global AI Summit"/> | Third place, Global AI Summit 2025, Bennett University — TerraViT |
-| <img src="https://img.shields.io/badge/03-SIH%202024--2025-6D28D9?style=flat-square" alt="SIH 2024 and 2025"/> | Selected for Smart India Hackathon in 2024 and 2025; developed working prototypes under time constraints |
-| <img src="https://img.shields.io/badge/04-AWS-3730A3?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Certified Cloud Practitioner |
-| <img src="https://img.shields.io/badge/05-HackerRank-312E81?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | Problem Solving — Basic and Intermediate, October 2026 |
-
 </div>
 
 ---
@@ -290,22 +272,10 @@ A civic-tech prototype designed to streamline the identification and mapping of 
   <img src="https://img.shields.io/badge/AWS%20Academy-Generative%20AI%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Academy Generative AI Foundations"/>
 </a>
 
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification">
-  <img src="https://img.shields.io/badge/Oracle-Certifications%20Portal-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certifications Portal"/>
-</a>
-
 ### NPTEL
 
 <a href="https://nptel.ac.in/">
   <img src="https://img.shields.io/badge/NPTEL-Course%20Portal-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Course Portal"/>
-</a>
-
-### Cisco
-
-<a href="https://www.netacad.com/">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy"/>
 </a>
 
 ### Additional Learning & Credentials
@@ -324,22 +294,6 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 
 ---
 
-## `07` &nbsp; Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
 
 </div>
 
