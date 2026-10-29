@@ -143,7 +143,7 @@ An AI-powered agriculture platform combining computer vision, reinforcement lear
 | **Performance** | 91.60% test accuracy for the wheat classification model |
 | **Security** | Formal security evaluation not documented |
 | **Impact** | Selected for Smart India Hackathon 2026 |
-| **Repository** | [NabhKrishi Frontend](https://github.com/TanishkaVashishth/Nabhkrishi) |
+| **Repository** | [NabhKrishi](https://github.com/TanishkaVashishth/Nabhkrishi) |
 
 **Engineering highlights**
 
@@ -168,7 +168,7 @@ An AI-driven health-tech prototype that estimates neurological risk and combines
 | **Performance** | Reported \(R^2\) score of 0.85 |
 | **Security** | Formal security audit not documented |
 | **Impact** | Combines predictive modeling, cognitive screening, and automated reporting |
-| **Repository** | [Explore GitHub repositories](https://github.com/nikunjbindra/NeuroSense) |
+| **Repository** | [NeuroSense](https://github.com/nikunjbindra/NeuroSense) |
 
 **Engineering highlights**
 
@@ -195,7 +195,7 @@ A real-time monitoring system combining facial features and system-level telemet
 | **Performance** | Quantitative model benchmarks not documented |
 | **Security** | Formal privacy and security audit not documented |
 | **Impact** | Live risk scoring, alerts, and automated PDF reporting |
-| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth/attention-drift-and-fatigue-detection) |
+| **Repository** | [Attention Drift & Fatigue Detection](https://github.com/TanishkaVashishth/attention-drift-and-fatigue-detection) |
 
 **Engineering highlights**
 
@@ -220,7 +220,7 @@ An Earth Observation platform combining a satellite-pretrained vision transforme
 | **Performance** | Third place at Global AI Summit 2025 |
 | **Security** | Formal security audit not documented |
 | **Impact** | Change heatmaps, vegetation-stress and flood masks, climate-risk trends, and early-warning alerts |
-| **Repository** | [Explore GitHub repositories](https://github.com/Aditya30ag/TerraViT) |
+| **Repository** | [TerraViT](https://github.com/Aditya30ag/TerraViT) |
 
 **Engineering highlights**
 
