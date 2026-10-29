@@ -261,7 +261,7 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 
 ---
 
-## `06` &nbsp; Certifications
+## `05` &nbsp; Certifications
 
 ### Amazon Web Services
 
@@ -289,11 +289,6 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 <a href="https://www.udemy.com/">
   <img src="https://img.shields.io/badge/Udemy-Web%20Development%20Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Web Development Bootcamp"/>
 </a>
-
-<sub>Oracle, NPTEL, and Cisco badges link to their official learning or certification portals and do not imply a completed certification.</sub>
-
----
-
 
 </div>
 
