@@ -1,11 +1,9 @@
-
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:312E81,75:6D28D9,100:4F46E5&height=210&section=header&text=TANISHKA%20VASHISHTH&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20ENGINEERING&descAlignY=58&descSize=13" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:312E81,75:6D28D9,100:4F46E5&height=210&section=header&text=TANISHKA%20VASHISHTH&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PRODUCT%20ENGINEERING&descAlignY=58&descSize=13" alt="Profile Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+That+Scale;Engineering+AI-Powered+Products;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;From+Research+to+Production-Ready+Software" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+That+Scale;Engineering+AI-Powered+Products;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;From+Research+to+Production-Ready+Software" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -24,9 +22,6 @@
 
 <a href="https://www.google.com/maps/search/?api=1&query=Greater+Noida+India">
   <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-3730A3?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</a>
-<a href="https://github.com/TanishkaVashishth">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-18181B?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/tanishka-vashishth-2975b2444">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -75,7 +70,7 @@ I approach engineering with a **product-first mindset**: understand the problem,
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### Frontend
@@ -108,7 +103,7 @@ I approach engineering with a **product-first mindset**: understand the problem,
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,sqlite&theme=dark" alt="Cloud and Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" alt="Cloud and Developer Tools"/>
 </p>
 
 <p>
@@ -131,7 +126,7 @@ I approach engineering with a **product-first mindset**: understand the problem,
 | Natural Language Processing | `Applied` | Text processing, semantic representations, language model integration |
 | Generative AI & LLMs | `Applied` | RAG pipelines, prompt engineering, context-aware AI assistants |
 | Retrieval-Augmented Generation | `Applied` | Embeddings, vector search, ChromaDB, contextual retrieval |
-| Model Experimentation | `Applied` | Dataset preparation, training, validation, and performance analysis |
+| Model Experimentation | `Applied` | Dataset preparation, training, validation, performance analysis |
 | AI Product Integration | `Applied` | Connecting trained models to APIs, dashboards, and user workflows |
 
 ---
@@ -152,9 +147,9 @@ An AI-powered agriculture platform combining computer vision, reinforcement lear
 | **Stack** | Python, Swin Transformer, PPO, RAG, ChromaDB, BGE Embeddings, NVIDIA Nemotron |
 | **Scale** | 15 wheat classes; integrated agricultural guidance workflows |
 | **Performance** | 91.60% test accuracy for the wheat classification model |
-| **Security** | Security controls and formal security evaluation are not documented here |
-| **Impact** | Selected for Smart India Hackathon 2026; designed to support contextual agricultural decision-making |
-| **Repository** | [View on GitHub](https://github.com/NabhKrishi/NabhKrishi_frontend) |
+| **Security** | Formal security evaluation not documented |
+| **Impact** | Selected for Smart India Hackathon 2026 |
+| **Repository** | [NabhKrishi Frontend](https://github.com/NabhKrishi/NabhKrishi_frontend) |
 
 **Engineering highlights**
 
@@ -177,9 +172,9 @@ An AI-driven health-tech prototype that estimates neurological risk and combines
 | **Stack** | Python, Scikit-learn, Random Forest Regressor, Flask, SQLite, ReportLab |
 | **Scale** | 2,100+ clinical Alzheimer's records; four risk tiers |
 | **Performance** | Reported \(R^2\) score of 0.85 |
-| **Security** | SQLite-based data storage; formal security audit not documented |
-| **Impact** | Combines predictive modeling, cognitive screening, and automated reporting in one prototype |
-| **Repository** | [View repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Security** | Formal security audit not documented |
+| **Impact** | Combines predictive modeling, cognitive screening, and automated reporting |
+| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
 
 **Engineering highlights**
 
@@ -202,11 +197,11 @@ A real-time monitoring system combining facial features and system-level telemet
 | Dimension | Details |
 |:---|:---|
 | **Stack** | Python, MediaPipe, OpenCV, Streamlit, Machine Learning |
-| **Scale** | Real-time facial feature extraction and distraction-monitoring workflow |
-| **Performance** | Model accuracy and latency benchmarks not documented here |
-| **Security** | Uses camera input and system telemetry; formal privacy/security audit not documented |
+| **Scale** | Real-time facial feature extraction and distraction monitoring |
+| **Performance** | Quantitative model benchmarks not documented |
+| **Security** | Formal privacy and security audit not documented |
 | **Impact** | Live risk scoring, alerts, and automated PDF reporting |
-| **Repository** | [View repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
 
 **Engineering highlights**
 
@@ -228,10 +223,10 @@ An Earth Observation platform combining a satellite-pretrained vision transforme
 |:---|:---|
 | **Stack** | PyTorch, SatViT, FastAPI, Next.js 14, ERA5 climate data |
 | **Scale** | 12-layer encoder with 768-dimensional representations |
-| **Performance** | Third place at Global AI Summit 2025; quantitative detection benchmarks not documented here |
+| **Performance** | Third place at Global AI Summit 2025 |
 | **Security** | Formal security audit not documented |
 | **Impact** | Change heatmaps, vegetation-stress and flood masks, climate-risk trends, and early-warning alerts |
-| **Repository** | [View repositories](https://github.com/TanishkaVashishth?tab=repositories) |
+| **Repository** | [Explore GitHub repositories](https://github.com/TanishkaVashishth?tab=repositories) |
 
 **Engineering highlights**
 
@@ -257,7 +252,6 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 | **Performance** | Quantitative performance benchmarks not documented |
 | **Security** | Formal security audit not documented |
 | **Impact** | Developed a working prototype for Smart India Hackathon 2025 |
-| **Repository** | [View repositories](https://github.com/TanishkaVashishth?tab=repositories) |
 
 **Engineering highlights**
 
@@ -269,53 +263,13 @@ A civic-tech prototype designed to streamline the identification and mapping of 
 
 ---
 
-## `05` &nbsp; Experience & Leadership
-
-### Research Team Head — ACM Research-Based Chapter
-
-<sub>September 2025 – May 2026 · Greater Noida, India</sub>
-
-Led research initiatives and coordinated technology-focused activities within the chapter.
-
-- Coordinated AI and technology project initiatives.
-- Mentored junior members and supported research-oriented collaboration.
-- Contributed to an environment focused on technical exploration and learning.
-
-`Research Leadership` `AI/ML` `Team Mentoring` `Technical Coordination`
-
-### Management Head — Indian Blockchain Fraternity (IBF)
-
-<sub>September 2025 – May 2026 · Greater Noida, India</sub>
-
-Managed operational and coordination activities to promote blockchain and emerging-technology education.
-
-- Oversaw club operations and event coordination.
-- Supported team management and execution of student initiatives.
-- Contributed to awareness and educational activities around emerging technologies.
-
-`Leadership` `Operations` `Event Management` `Blockchain`
-
-### Campus Brand Ambassador — Helalabs
-
-<sub>2025 – May 2026 · Greater Noida, India</sub>
-
-Supported campus outreach, brand awareness, and user onboarding through student engagement.
-
-- Promoted awareness of the organization and its offerings.
-- Supported user onboarding through campus outreach.
-- Engaged with stakeholders to strengthen communication and visibility.
-
-`Outreach` `Communication` `User Onboarding` `Stakeholder Engagement`
-
----
-
-## `06` &nbsp; Achievements
+## `05` &nbsp; Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:---|:---|
-| <img src="https://img.shields.io/badge/01-Smart%20India%20Hackathon-312E81?style=flat-square" alt="SIH"/> | Selected for Smart India Hackathon 2026 with NabhKrishi |
+| <img src="https://img.shields.io/badge/01-Smart%20India%20Hackathon-312E81?style=flat-square" alt="Smart India Hackathon"/> | Selected for Smart India Hackathon 2026 with NabhKrishi |
 | <img src="https://img.shields.io/badge/02-Global%20AI%20Summit-4F46E5?style=flat-square" alt="Global AI Summit"/> | Third place, Global AI Summit 2025, Bennett University — TerraViT |
 | <img src="https://img.shields.io/badge/03-SIH%202024--2025-6D28D9?style=flat-square" alt="SIH 2024 and 2025"/> | Selected for Smart India Hackathon in 2024 and 2025; developed working prototypes under time constraints |
 | <img src="https://img.shields.io/badge/04-AWS-3730A3?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Certified Cloud Practitioner |
@@ -325,7 +279,7 @@ Supported campus outreach, brand awareness, and user onboarding through student 
 
 ---
 
-## `07` &nbsp; Certifications
+## `06` &nbsp; Certifications
 
 ### Amazon Web Services
 
@@ -366,26 +320,23 @@ Supported campus outreach, brand awareness, and user onboarding through student 
   <img src="https://img.shields.io/badge/Udemy-Web%20Development%20Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Web Development Bootcamp"/>
 </a>
 
-<sub>Oracle, NPTEL, and Cisco badges above link to their official learning or certification portals; they do not imply a completed certification.</sub>
+<sub>Oracle, NPTEL, and Cisco badges link to their official learning or certification portals and do not imply a completed certification.</sub>
 
 ---
 
-## `08` &nbsp; Coding Profiles
+## `07` &nbsp; Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LeetCode-Practice%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
 <a href="https://www.geeksforgeeks.org/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
-
 <a href="https://www.hackerrank.com/">
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-
 <a href="https://www.codechef.com/">
   <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
@@ -393,141 +344,3 @@ Supported campus outreach, brand awareness, and user onboarding through student 
 </div>
 
 ---
-
-## `09` &nbsp; GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/TanishkaVashishth">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanishkaVashishth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/TanishkaVashishth">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkaVashishth&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=TanishkaVashishth&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Statistics"/>
-</a>
-
-</div>
-
-<sub>Analytics are generated from publicly available GitHub activity. Private contributions, caching, API limits, and provider availability may affect displayed values.</sub>
-
----
-
-## `10` &nbsp; GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=TanishkaVashishth&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
-</a>
-
-</div>
-
----
-
-## `11` &nbsp; Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/TanishkaVashishth">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanishkaVashishth&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
-</a>
-
-</div>
-
----
-
-## `12` &nbsp; Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanishkaVashishth/TanishkaVashishth/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanishkaVashishth/TanishkaVashishth/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/TanishkaVashishth/TanishkaVashishth/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## `13` &nbsp; Current Focus
-
-```yaml
-profile:
-  name: "Tanishka Vashishth"
-  discipline: "Computer Science & Engineering"
-  specialization: "Artificial Intelligence & Machine Learning"
-
-learning:
-  - Advanced Machine Learning
-  - Computer Vision and Vision Transformers
-  - Reinforcement Learning
-  - LLM Applications and Retrieval-Augmented Generation
-  - Scalable Software Engineering
-
-building:
-  - AI-powered agriculture and decision-support systems
-  - Computer vision applications
-  - Full-stack AI products
-  - Data-driven geospatial intelligence platforms
-
-exploring:
-  - Research-to-production ML workflows
-  - Model evaluation and optimization
-  - Reliable AI system architecture
-  - Open-source engineering
-
-open_to:
-  - AI/ML internships
-  - Software engineering opportunities
-  - Applied AI research
-  - Open-source collaborations
-  - Technical project partnerships
-```
-
----
-
-## `14` &nbsp; Connect
-
-<div align="center">
-
-<a href="mailto:tanishka.vashishth@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tanishka"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanishka-vashishth-2975b2444">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-</a>
-
-<a href="https://github.com/TanishkaVashishth">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-
-<a href="https://github.com/TanishkaVashishth?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-4338CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Project Portfolio"/>
-</a>
-
-<br/><br/>
-
-*Interested in building intelligent products, solving meaningful engineering problems, and collaborating on ambitious ideas.*
-
-</div>
-
----
-
-<div align="center">
-
-### Engineering is the art of turning complex problems into elegant, reliable solutions.
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:312E81,100:09090B&height=120&section=footer" alt="Purple gradient footer banner"/>
-
-<sub>Designed with precision · Built with curiosity · Improved through iteration</sub>
-
-</div>
